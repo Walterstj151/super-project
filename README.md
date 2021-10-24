@@ -2,5 +2,5 @@
 
 Project collaborative
 
-# A faire : ajouter un fichier "gitinignore"
+# A faire : ajouter un fichier "gitignore"
 
